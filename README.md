@@ -2,7 +2,7 @@
 
 # PyPSA Earth Data Processing and PostGIS Integration
 
-This repository contains Python scripts for processing PyPSA-Earth network data from NetCDF files and integrating it into a PostGIS database. The scripts facilitate the extraction, transformation, and loading (ETL) of power system data for multiple countries, making it suitable for further analysis and visualization.
+This repository contains Python scripts for processing PyPSA-Earth network data from NetCDF files and integrating it into a PostGIS database. The scripts facilitate the extraction, transformation, and loading of power system data for multiple countries, making it suitable for further analysis and visualization.
 
 ## Key Features:
 
